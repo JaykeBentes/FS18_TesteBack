@@ -1,0 +1,11 @@
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\bin\Debug\net6.0\Projeto_teste_operacoes.deps.json
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\bin\Debug\net6.0\Projeto_teste_operacoes.dll
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\bin\Debug\net6.0\Projeto_teste_operacoes.pdb
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.AssemblyInfoInputs.cache
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.AssemblyInfo.cs
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.csproj.CoreCompileInputs.cache
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.dll
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\obj\Debug\net6.0\refint\Projeto_teste_operacoes.dll
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.pdb
+D:\Curso Full-Stack senai\FS18_TesteBack\Projeto_teste_operacoes\Projeto_teste_operacoes\obj\Debug\net6.0\ref\Projeto_teste_operacoes.dll
